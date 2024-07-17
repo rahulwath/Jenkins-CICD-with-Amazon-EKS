@@ -1,4 +1,4 @@
-# Jenkins-CICD-with-Amazon-EKS
+# 🚀Jenkins-CICD-with-Amazon-EKS
 This repository contains the code and configurations required for Deploying Nodejs Applications on Amazon EKS with Jenkins CI/CD
 
 ## Clone the Repository
